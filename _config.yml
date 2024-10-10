@@ -24,7 +24,12 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "Toronto, Canada"
+  Skill levels:
+    - Beginner: ""
+    - Intermediate: ""
+    - Advanced: ""
+    - Competitive: ""
+  Author's home: "home"
 
 ################
 # --- Logo --- #
